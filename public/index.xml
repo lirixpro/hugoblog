@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MyOnly</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on MyOnly</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 02 Jul 2026 20:08:31 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HelloWorld</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Thu, 02 Jul 2026 20:08:31 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;HelloWorld&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;再次向世界问好&#34;&gt;再次向世界问好&lt;/h4&gt;
+&lt;p&gt;用一段最简单的 &lt;code&gt;HelloWorld&lt;/code&gt; 开启我的个人博客旅程，
+往后慢慢记录技术点滴、生活感悟，愿本站稳步成长，越做越好。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
